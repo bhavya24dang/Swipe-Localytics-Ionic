@@ -1,0 +1,500 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.gms:play-services-ads:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.4.2.aar/177b2857212a7ef0e17efc4bbe46d935/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.4.2.aar/96986a6be176c08fb77d84e5bcbe6e4a/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-gass:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.4.2.aar/a679b0606a6c41390b8ebacc05db6214/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.4.2.aar/8702e1c9c749718b3ded6cb83f3db783/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-11.4.2.aar/5e1ef1b0e7a70bbdb511929e0856351c/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-11.4.2.aar/c29eac7b5506f767a91cdd9eb9ac0f30/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.4.2.aar/cdf6a2267f3241f57627c34d5c53681a/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/1a1e2ddfbc6ed8071cb6730b3291ffc4/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/44f8a9ba698b8716c9dfdee725d547f7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:2:1-80:12
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/746e10a6e14f3de52e40a3276b94c501/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/44839075d3f27172db993cfbe67801b6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d1020845bb4097d9b7010b13e8c6f92d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/efb8f06a2ae36a49d6c1f89b3a590bc2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/7b51b57c8aa8ae835218115dda091295/AndroidManifest.xml:17:1-31:12
+MERGED from [:CordovaLib] /home/bhavya/my projects/swipe-localytics-temp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.4.2.aar/234669246ac57d90cd2c305c662270c1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.4.2.aar/c4018070a53bb33b0459277477b3138f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.4.2.aar/d5521deafb0af5f5c469d0b81daeb9bf/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.4.2.aar/fd362fd3cf922ca9a7b4e78fbbba26cd/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.4.2.aar/ae4466fd3a2dbbc6339ae0e6fd487cc1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.4.2.aar/8be90b994ea503d7e423c8f4716d15a7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.4.2.aar/3dc898615c5d787d0da471990544f5df/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.4.2.aar/5e810befe2c53df8a6a305083389cce1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.4.2.aar/2371630b8c7430718c0b614d89173fb4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.4.2.aar/fa302108c28cb4eb9904511719b08724/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.4.2.aar/0c8c83ac83a1403cd1efdfa92d781af3/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:5:5-31
+		INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:4:5-32
+		INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:7:5-51
+	android:hardwareAccelerated
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:6:5-63
+	android:versionCode
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:8:5-191
+	android:largeScreens
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:8:49-76
+	android:smallScreens
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:8:132-159
+	android:normalScreens
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:8:77-105
+	android:xlargeScreens
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:8:160-188
+	android:resizeable
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:8:106-131
+	android:anyDensity
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:8:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.4.2.aar/96986a6be176c08fb77d84e5bcbe6e4a/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.4.2.aar/96986a6be176c08fb77d84e5bcbe6e4a/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.4.2.aar/8702e1c9c749718b3ded6cb83f3db783/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.4.2.aar/8702e1c9c749718b3ded6cb83f3db783/AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:20:5-66
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:14:5-67
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:21:5-67
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:15:5-68
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:10:22-65
+application
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:11:5-34:19
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.4.2.aar/96986a6be176c08fb77d84e5bcbe6e4a/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.4.2.aar/96986a6be176c08fb77d84e5bcbe6e4a/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.4.2.aar/a679b0606a6c41390b8ebacc05db6214/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.4.2.aar/a679b0606a6c41390b8ebacc05db6214/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.4.2.aar/8702e1c9c749718b3ded6cb83f3db783/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.4.2.aar/8702e1c9c749718b3ded6cb83f3db783/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-11.4.2.aar/5e1ef1b0e7a70bbdb511929e0856351c/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-11.4.2.aar/5e1ef1b0e7a70bbdb511929e0856351c/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-11.4.2.aar/c29eac7b5506f767a91cdd9eb9ac0f30/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-11.4.2.aar/c29eac7b5506f767a91cdd9eb9ac0f30/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.4.2.aar/cdf6a2267f3241f57627c34d5c53681a/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.4.2.aar/cdf6a2267f3241f57627c34d5c53681a/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/1a1e2ddfbc6ed8071cb6730b3291ffc4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/1a1e2ddfbc6ed8071cb6730b3291ffc4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/44f8a9ba698b8716c9dfdee725d547f7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/44f8a9ba698b8716c9dfdee725d547f7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:17:5-78:19
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:17:5-78:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/746e10a6e14f3de52e40a3276b94c501/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/746e10a6e14f3de52e40a3276b94c501/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/44839075d3f27172db993cfbe67801b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/44839075d3f27172db993cfbe67801b6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d1020845bb4097d9b7010b13e8c6f92d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d1020845bb4097d9b7010b13e8c6f92d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/efb8f06a2ae36a49d6c1f89b3a590bc2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/efb8f06a2ae36a49d6c1f89b3a590bc2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/7b51b57c8aa8ae835218115dda091295/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/7b51b57c8aa8ae835218115dda091295/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.4.2.aar/234669246ac57d90cd2c305c662270c1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.4.2.aar/234669246ac57d90cd2c305c662270c1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.4.2.aar/c4018070a53bb33b0459277477b3138f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.4.2.aar/c4018070a53bb33b0459277477b3138f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.4.2.aar/d5521deafb0af5f5c469d0b81daeb9bf/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.4.2.aar/d5521deafb0af5f5c469d0b81daeb9bf/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.4.2.aar/fd362fd3cf922ca9a7b4e78fbbba26cd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.4.2.aar/fd362fd3cf922ca9a7b4e78fbbba26cd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.4.2.aar/ae4466fd3a2dbbc6339ae0e6fd487cc1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.4.2.aar/ae4466fd3a2dbbc6339ae0e6fd487cc1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.4.2.aar/8be90b994ea503d7e423c8f4716d15a7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.4.2.aar/8be90b994ea503d7e423c8f4716d15a7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.4.2.aar/3dc898615c5d787d0da471990544f5df/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.4.2.aar/3dc898615c5d787d0da471990544f5df/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.4.2.aar/5e810befe2c53df8a6a305083389cce1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.4.2.aar/5e810befe2c53df8a6a305083389cce1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.4.2.aar/2371630b8c7430718c0b614d89173fb4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.4.2.aar/2371630b8c7430718c0b614d89173fb4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.4.2.aar/fa302108c28cb4eb9904511719b08724/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.4.2.aar/fa302108c28cb4eb9904511719b08724/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.4.2.aar/0c8c83ac83a1403cd1efdfa92d781af3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.4.2.aar/0c8c83ac83a1403cd1efdfa92d781af3/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:11:114-140
+	android:label
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:11:81-113
+	android:hardwareAccelerated
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:11:18-52
+	android:icon
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:11:53-80
+activity#io.ionic.starter.MainActivity
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:12:97-134
+	android:launchMode
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:12:135-165
+	android:windowSoftInputMode
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:12:257-299
+	android:configChanges
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:12:19-96
+	android:theme
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:12:194-256
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:12:166-193
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+data:scheme:amp7628c964030aa8a38e6efb3-67509074-955c-11e8-0032-007c928ca240
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:13:13-20:29
+	android:label
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:13:28-65
+action#android.intent.action.MAIN
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:15:27-74
+data
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:16:17-106
+	android:scheme
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:16:23-103
+action#android.intent.action.VIEW
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:18:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:19:17-78
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:19:27-75
+meta-data#LOCALYTICS_APP_KEY
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:22:9-25:21
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:20:9-22:50
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:20:9-22:50
+	tools:replace
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:22:20-49
+	android:value
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:24:13-89
+		REJECTED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:23:13-46
+receiver#com.localytics.android.ReferralReceiver
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:26:9-32:20
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:25:9-32:20
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:25:9-32:20
+	android:enabled
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:27:13-65
+	android:exported
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:27:13-67
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:29:13-31:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:30:17-79
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:30:25-76
+receiver#com.localytics.android.LocationUpdateReceiver
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:33:9-81
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:58:9-60:57
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:58:9-60:57
+	android:enabled
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:60:13-54
+	android:name
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:33:19-79
+uses-sdk
+ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:35:5-74
+MERGED from [com.google.android.gms:play-services-ads:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.4.2.aar/177b2857212a7ef0e17efc4bbe46d935/AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.4.2.aar/177b2857212a7ef0e17efc4bbe46d935/AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.4.2.aar/96986a6be176c08fb77d84e5bcbe6e4a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.4.2.aar/96986a6be176c08fb77d84e5bcbe6e4a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.4.2.aar/a679b0606a6c41390b8ebacc05db6214/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.4.2.aar/a679b0606a6c41390b8ebacc05db6214/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.4.2.aar/8702e1c9c749718b3ded6cb83f3db783/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.4.2.aar/8702e1c9c749718b3ded6cb83f3db783/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-11.4.2.aar/5e1ef1b0e7a70bbdb511929e0856351c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-11.4.2.aar/5e1ef1b0e7a70bbdb511929e0856351c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-11.4.2.aar/c29eac7b5506f767a91cdd9eb9ac0f30/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-11.4.2.aar/c29eac7b5506f767a91cdd9eb9ac0f30/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.4.2.aar/cdf6a2267f3241f57627c34d5c53681a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.4.2.aar/cdf6a2267f3241f57627c34d5c53681a/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/1a1e2ddfbc6ed8071cb6730b3291ffc4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/1a1e2ddfbc6ed8071cb6730b3291ffc4/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/44f8a9ba698b8716c9dfdee725d547f7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/44f8a9ba698b8716c9dfdee725d547f7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/746e10a6e14f3de52e40a3276b94c501/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/746e10a6e14f3de52e40a3276b94c501/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/44839075d3f27172db993cfbe67801b6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/44839075d3f27172db993cfbe67801b6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d1020845bb4097d9b7010b13e8c6f92d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d1020845bb4097d9b7010b13e8c6f92d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/efb8f06a2ae36a49d6c1f89b3a590bc2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/efb8f06a2ae36a49d6c1f89b3a590bc2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/7b51b57c8aa8ae835218115dda091295/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/7b51b57c8aa8ae835218115dda091295/AndroidManifest.xml:21:5-23:58
+MERGED from [:CordovaLib] /home/bhavya/my projects/swipe-localytics-temp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /home/bhavya/my projects/swipe-localytics-temp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.4.2.aar/234669246ac57d90cd2c305c662270c1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.4.2.aar/234669246ac57d90cd2c305c662270c1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.4.2.aar/c4018070a53bb33b0459277477b3138f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.4.2.aar/c4018070a53bb33b0459277477b3138f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.4.2.aar/d5521deafb0af5f5c469d0b81daeb9bf/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.4.2.aar/d5521deafb0af5f5c469d0b81daeb9bf/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.4.2.aar/fd362fd3cf922ca9a7b4e78fbbba26cd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.4.2.aar/fd362fd3cf922ca9a7b4e78fbbba26cd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.4.2.aar/ae4466fd3a2dbbc6339ae0e6fd487cc1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.4.2.aar/ae4466fd3a2dbbc6339ae0e6fd487cc1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.4.2.aar/8be90b994ea503d7e423c8f4716d15a7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.4.2.aar/8be90b994ea503d7e423c8f4716d15a7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.4.2.aar/3dc898615c5d787d0da471990544f5df/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.4.2.aar/3dc898615c5d787d0da471990544f5df/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.4.2.aar/5e810befe2c53df8a6a305083389cce1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.4.2.aar/5e810befe2c53df8a6a305083389cce1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.4.2.aar/2371630b8c7430718c0b614d89173fb4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.4.2.aar/2371630b8c7430718c0b614d89173fb4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.4.2.aar/fa302108c28cb4eb9904511719b08724/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.4.2.aar/fa302108c28cb4eb9904511719b08724/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.4.2.aar/0c8c83ac83a1403cd1efdfa92d781af3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.4.2.aar/0c8c83ac83a1403cd1efdfa92d781af3/AndroidManifest.xml:4:5-43
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.4.2.aar/177b2857212a7ef0e17efc4bbe46d935/AndroidManifest.xml:17:42-92
+	android:targetSdkVersion
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:35:42-71
+	android:minSdkVersion
+		ADDED from /home/bhavya/my projects/swipe-localytics-temp/platforms/android/app/src/main/AndroidManifest.xml:35:15-41
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.4.2.aar/96986a6be176c08fb77d84e5bcbe6e4a/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.4.2.aar/8702e1c9c749718b3ded6cb83f3db783/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.4.2.aar/8702e1c9c749718b3ded6cb83f3db783/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.4.2.aar/96986a6be176c08fb77d84e5bcbe6e4a/AndroidManifest.xml:20:22-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.4.2.aar/7539f5b94ee4e679a5f469ecb050f93d/AndroidManifest.xml:25:25-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:19:5-78
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:11:5-79
+MERGED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:25:9-257
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:25:231-255
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.4.2.aar/24b7ca3dab8d71c33ae1c9423d814df4/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-11.4.2.aar/5e1ef1b0e7a70bbdb511929e0856351c/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-11.4.2.aar/5e1ef1b0e7a70bbdb511929e0856351c/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-11.4.2.aar/5e1ef1b0e7a70bbdb511929e0856351c/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-base-11.4.2.aar/5e1ef1b0e7a70bbdb511929e0856351c/AndroidManifest.xml:19:19-85
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:24:17-71
+permission#io.ionic.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:26:22-76
+uses-permission#io.ionic.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:io.ionic.starter
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:33:27-58
+category#io.ionic.starter
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:43:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.4.2.aar/59377794dbae1b99102e1f249a94d542/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-11.4.2.aar/c29eac7b5506f767a91cdd9eb9ac0f30/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-11.4.2.aar/c29eac7b5506f767a91cdd9eb9ac0f30/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-11.4.2.aar/c29eac7b5506f767a91cdd9eb9ac0f30/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-11.4.2.aar/c29eac7b5506f767a91cdd9eb9ac0f30/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/firebase-common-11.4.2.aar/c29eac7b5506f767a91cdd9eb9ac0f30/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/1a1e2ddfbc6ed8071cb6730b3291ffc4/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/1a1e2ddfbc6ed8071cb6730b3291ffc4/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.4.2.aar/1a1e2ddfbc6ed8071cb6730b3291ffc4/AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/44f8a9ba698b8716c9dfdee725d547f7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/746e10a6e14f3de52e40a3276b94c501/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/746e10a6e14f3de52e40a3276b94c501/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/44839075d3f27172db993cfbe67801b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/44839075d3f27172db993cfbe67801b6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d1020845bb4097d9b7010b13e8c6f92d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/d1020845bb4097d9b7010b13e8c6f92d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/efb8f06a2ae36a49d6c1f89b3a590bc2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/efb8f06a2ae36a49d6c1f89b3a590bc2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/7b51b57c8aa8ae835218115dda091295/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/7b51b57c8aa8ae835218115dda091295/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/44f8a9ba698b8716c9dfdee725d547f7/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.2] /home/bhavya/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/44f8a9ba698b8716c9dfdee725d547f7/AndroidManifest.xml:27:13-51
+activity#com.localytics.android.PushTrackingActivity
+ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:35:9-38:39
+	android:enabled
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:37:13-70
+	android:exported
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:36:13-71
+service#com.localytics.android.FirebaseTokenService
+ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:40:9-47:19
+	android:enabled
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:42:13-65
+	android:exported
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:41:13-71
+service#com.localytics.android.FirebaseService
+ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:48:9-55:19
+	android:enabled
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:50:13-65
+	android:exported
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:51:13-36
+	android:name
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:49:13-66
+receiver#com.localytics.android.BootReceiver
+ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:61:9-67:20
+	android:enabled
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:63:13-54
+	android:name
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:62:13-63
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:64:13-66:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:65:17-79
+	android:name
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:65:25-76
+service#com.localytics.android.BackgroundService
+ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:69:9-77:19
+	android:enabled
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:71:13-36
+	android:exported
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:72:13-36
+	android:permission
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:73:13-93
+	android:name
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:70:13-68
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:74:13-76:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:75:17-87
+	android:name
+		ADDED from [com.localytics.android:library:5.2.1] /home/bhavya/.gradle/caches/transforms-1/files-1.1/library-5.2.1.aar/545495285ad6f10f4928de52e15379a7/AndroidManifest.xml:75:25-84
